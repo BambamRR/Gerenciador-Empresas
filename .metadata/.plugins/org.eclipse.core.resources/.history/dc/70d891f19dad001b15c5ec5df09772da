@@ -1,0 +1,18 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!DOCTYPE>
+<html lang="pt-br">
+<head>
+<title>Formulário nova empresa</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+	<c:url value="/novaEmpresa" />
+	<p>Teste de Servlet</p>
+	<form action="/gerenciador/novaEmpresa" method="post">
+		Nome: <input type="text" name="nome"> <input type="submit"
+			value="Enviar">
+
+	</form>
+</body>
+</html>
