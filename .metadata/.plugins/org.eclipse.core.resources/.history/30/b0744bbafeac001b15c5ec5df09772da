@@ -1,0 +1,12 @@
+package br.com.alura.gerenciador.servlet;
+
+import javax.servlet.http.HttpServlet;
+
+public class OiMundoServlet extends HttpServlet {
+	
+	@Override
+    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        // TODO Auto-generated method stub
+        super.service(req, resp);
+    }
+}

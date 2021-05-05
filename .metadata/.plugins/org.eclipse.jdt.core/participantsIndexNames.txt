@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Leonardo\Documents\Java Spring Alura\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2246482348.index
+\gerenciador\src\main\java
+C:\Users\Leonardo\Documents\Java Spring Alura\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\141730439.index
+\gerenciador\src\main\java
+C:\Users\Leonardo\Documents\Java Spring Alura\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3749285922.index
+\gerenciador\src\main\java

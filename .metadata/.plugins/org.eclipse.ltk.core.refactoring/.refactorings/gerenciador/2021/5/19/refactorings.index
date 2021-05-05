@@ -1,0 +1,8 @@
+1620149104457	Rename resource 'bemvindo.html'
+1620156695610	Rename resource 'formNovaEmpresa'
+1620156709859	Delete element
+1620156934290	Move 'formNovaEmpresa.html' to 'webapp'
+1620169484090	Move 'novaEmpresaCriada.jsp' to 'META-INF'
+1620169489631	Move 'novaEmpresaCriada.jsp' to 'WEB-INF'
+1620169495473	Move 'novaEmpresaCriada.jsp' to 'webapp'
+1620182000348	Move 'listaEmpresas.jsp' to 'webapp'
